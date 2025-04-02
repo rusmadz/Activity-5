@@ -15,7 +15,7 @@ def exponentiation(base, exponent):
     return base ** exponent
 
 def remainder(num1, num2):
-    """
+    """s
     Calculates remainder with validation for zero denominator
     Returns None if denominator is zero
     """
